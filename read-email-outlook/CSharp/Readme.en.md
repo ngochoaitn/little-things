@@ -1,4 +1,4 @@
-[![vi](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red.svg)](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Readme.en.md/README.md)
+[![vi](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red.svg)](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Readme.md)
 [![en](https://img.shields.io/badge/Language-English-blue.svg)](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Readme.en.md)
 
 # C# Code to Read Emails and Get OAuth2 Access Token for Outlook
