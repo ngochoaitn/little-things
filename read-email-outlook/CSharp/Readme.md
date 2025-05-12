@@ -1,5 +1,5 @@
-[![vi](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red.svg)](https://github.com/ngochoaitn/little-things/read-email-outlook/CSharp/blob/main/README.md)
-[![en](https://img.shields.io/badge/Language-English-blue.svg)](https://github.com/ngochoaitn/little-things/read-email-outlook/CSharp/blob/main/README.en.md)
+[![vi](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red.svg)](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Readme.en.md/README.md)
+[![en](https://img.shields.io/badge/Language-English-blue.svg)](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Readme.en.md)
 
 # Code C# đọc email, lấy access token OAuth2 Outlook
 ⚠️**Chú ý**: Có một số hàm đã được đánh dấu [Obsolete] như: GetEmailsByRequest, GetOAuth2Token, cần cẩn trọng khi sử dụng vì có thể sẽ bị xác minh tài khoản dẫn tới khóa tài khoản 

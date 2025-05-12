@@ -1,5 +1,5 @@
-[![vi](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red.svg)](https://github.com/ngochoaitn/little-things/read-email-outlook/CSharp/blob/main/README.md)
-[![en](https://img.shields.io/badge/Language-English-blue.svg)](https://github.com/ngochoaitn/little-things/read-email-outlook/CSharp/blob/main/README.en.md)
+[![vi](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red.svg)](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Readme.en.md/README.md)
+[![en](https://img.shields.io/badge/Language-English-blue.svg)](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Readme.en.md)
 
 # C# Code to Read Emails and Get OAuth2 Access Token for Outlook
 ⚠️**Note**: Some methods have been marked as [Obsolete], such as GetEmailsByRequest and GetOAuth2Token. Use them with caution, as they may trigger account verification and potentially lead to account suspension.
