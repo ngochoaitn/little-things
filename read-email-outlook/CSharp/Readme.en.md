@@ -23,3 +23,5 @@ var mails = outlookHelper.GetEmails();
 // 2 => email|refreshToken|clientId
 // 3 => email|pass                       // May trigger account verification
 ```
+
+![Screenshot](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Screenshot.png)

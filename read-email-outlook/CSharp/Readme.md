@@ -23,3 +23,5 @@ var mails = outlookHelper.GetEmails();
 // 2 => email|refreshToken|clientId
 // 3 => email|pass                       // Có thể bị xác minh tài khoản khoản
 ```
+
+![Screenshot](https://github.com/ngochoaitn/little-things/blob/main/read-email-outlook/CSharp/Screenshot.png)
