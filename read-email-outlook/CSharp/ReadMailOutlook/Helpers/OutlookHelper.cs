@@ -329,6 +329,18 @@ namespace ReadMailOutlook.Helpers
             return null;
         }
 
+        /// <summary>
+        /// Warn: This option may trigger account verification
+        /// Return access token, refresh token.
+        /// Source python: https://taphoammo.net/post/detail/chia-se-cach-lay-refreshtoken-tu-tai-khoan-hotmail-outlook_976752
+        /// </summary>
+        /// <returns></returns>
+        [Obsolete("This option may trigger account verification")]
+        public string GetOAuth2Token()
+        {
+            return GetOAuth2Token(_email, _password);
+        }
+
         public string GetAccessToken(string refreshToken, string clientId)
         {
             using (Leaf.xNet.HttpRequest client = CreatexNetRequest())

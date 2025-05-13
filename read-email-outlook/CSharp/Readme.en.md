@@ -17,6 +17,13 @@ OutlookHelper outlookHelper = new OutlookHelper(data);
 var mails = outlookHelper.GetEmails();
 ```
 
+## Example: Get refresh token:
+```
+string data = "email@outlook.com.vn|password|refresh_token|client_id";
+OutlookHelper outlookHelper = new OutlookHelper(data);
+string token = outlookHelper.GetOAuth2Token();
+```
+
 ## Với new OutlookHelper(data) hỗ trợ sẵn các định dạng:
 ```
 // 1 => email|pass|refreshToken|clientId

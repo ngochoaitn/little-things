@@ -17,6 +17,7 @@ namespace ReadMailOutlook
             OutlookHelper outlookHelper = new OutlookHelper(data);
 
             //string accessToken = outlookHelper.GetAccessToken();
+            //string token = outlookHelper.GetOAuth2Token();
             var mails = outlookHelper.GetEmails();
             Console.WriteLine($"Get {mails.Count} emails");
             Console.WriteLine($"===========");
